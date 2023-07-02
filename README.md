@@ -1,5 +1,5 @@
 |       Main Page          |
 |:------------------------:|
-|![](./img/portfoliou.png)|
+|![](./img/portfolio.png)|
 
 # [portfoliou](https://ukmoldogazy.github.io/portfoliou/)
